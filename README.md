@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This project is a significant upgrade to my original [Bank Transaction Visualizer](https://github.com/harshkad/BankTransactionVisualizer) made in mid 2025. While the previous version focused on static dashboard visualizations, this version introduces an Agentic AI Co-Pilot, now skip the charts and simply chat with your transaction history.
+
+<br>
+
 ### Bank Transaction Co-Pilot
 
 A simple web app that turns messy bank text alerts into a beautiful financial dashboard and lets you chat with your expenses.
@@ -70,6 +75,9 @@ bank-copilot/
 
 * Python 3.10+ installed on your system.
 * A Groq Cloud API Key (Get one free from [console.groq.com](https://console.groq.com/)).
+
+> [!WARNING]
+> This project will not work without Groq Cloud API Key. Go and get it for free from above link
 
 #### Installation & Execution
 
